@@ -29,7 +29,7 @@ You can schedule lambda execution via a special input event.
 
 ### Define Scheduled Event Content ###
 Our scheduled event doesn't have a payload yet.  Let's fix that.
-![Define Scheduled Event Content](/etc/screenshots/5_Define_Scheduled_Event_Content.png?raw=true "Define Scheduled Event Content")
+![Define Scheduled Event Content](/etc/screenshots/5_DefineScheduledEventContent.png?raw=true "Define Scheduled Event Content")
 
 ### Check CloudWatch ###
 Wait five minutes; then check cloud watch.
