@@ -21,7 +21,7 @@ Define the JSON payload that you'll use to test the lambda each time you upload 
 
 ### Test It ###
 Now actually run the test.
-![Test It](/etc/screenshots/3_TestId.png?raw=true "Test It")
+![Test It](/etc/screenshots/3_TestIt.png?raw=true "Test It")
 
 ### Schedule It ###
 You can schedule lambda execution via a special input event.
